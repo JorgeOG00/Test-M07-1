@@ -1,0 +1,992 @@
+[
+    {
+        "id": 1,
+        "pregunta": "La excesiva cantidad de material de aportación, donde no se desea, en una soldadura blanda puede ser producida por:",
+        "opciones": {
+            "a": "Tiempo de soldadura corto, debido a una mala técnica de ejecución de la soldadura o un fallo en el horno.",
+            "b": "Temperatura demasiado elevada, debido a la mala técnica con el soldador o a un fallo en el horno.",
+            "c": "Temperatura demasiado baja, debido a una mala técnica con el soldador o a un fallo en el horno."
+        },
+        "respuesta": "b"
+    },
+    {
+        "id": 2,
+        "pregunta": "Una arandela del tipo Belleville se considera:",
+        "opciones": {
+            "a": "Resorte de tracción.",
+            "b": "Resorte de torsión.",
+            "c": "Resorte de disco que trabaja a compresión."
+        },
+        "respuesta": "c"
+    },
+    {
+        "id": 3,
+        "pregunta": "Cuando un polímetro actúa como amperímetro debe colocarse siempre:",
+        "opciones": {
+            "a": "En serie con los puntos que queremos medir la corriente.",
+            "b": "Es indiferente ponerlo en serie o en paralelo con los puntos que queremos medir la corriente.",
+            "c": "En paralelo con los puntos que queremos medir la corriente."
+        },
+        "respuesta": "a"
+    },
+    {
+        "id": 4,
+        "pregunta": "Realizando una prueba de LOC con la maleta NAV402 con sensibilidad adecuada, a la segunda posición de desviación de la maleta, corresponderá una desviación de CDI de:",
+        "opciones": {
+            "a": "1 punto.",
+            "b": "4 puntos.",
+            "c": "Fondo de escala."
+        },
+        "respuesta": "b"
+    },
+    {
+        "id": 5,
+        "pregunta": "Dentro del marco legislativo, una de las obligaciones de los trabajadores es:",
+        "opciones": {
+            "a": "Utilización correcta de los medios y equipos de protección.",
+            "b": "Eliminación del peligro cuando sea posible.",
+            "c": "Adecuación de los equipos de trabajo."
+        },
+        "respuesta": "a"
+    },
+    {
+        "id": 6,
+        "pregunta": "En la aeronave, ¿cómo se inspecciona un cable de mando?",
+        "opciones": {
+            "a": "Con una fuente de luz en todo su recorrido.",
+            "b": "Pasando un trapo sin hilachas a lo largo del cable.",
+            "c": "Con la ayuda de un tensiómetro."
+        },
+        "respuesta": "b"
+    },
+    {
+        "id": 7,
+        "pregunta": "En los resortes de compresión:",
+        "opciones": {
+            "a": "El paso puede ser constante o variable.",
+            "b": "El paso es siempre constante.",
+            "c": "El paso es siempre variable."
+        },
+        "respuesta": "a"
+    },
+    {
+        "id": 8,
+        "pregunta": "Dependiendo de la naturaleza del combustible, los incendios de Clase A:",
+        "opciones": {
+            "a": "Son de materiales gaseiformes.",
+            "b": "Son los cercanos al origen eléctrico.",
+            "c": "Son denominados de tipo seco que arden con brasa."
+        },
+        "respuesta": "c"
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Cuál es una de las principales causas de que se produzca una soldadura fría al realizar una soldadura blanda?",
+        "opciones": {
+            "a": "Los materiales no tienen la temperatura adecuada.",
+            "b": "Enfriado muy lento de la soldadura.",
+            "c": "Alta temperatura de soldadura."
+        },
+        "respuesta": "a"
+    },
+    {
+        "id": 10,
+        "pregunta": "El Certificado de Puesta en Servicio deberá emitirse:",
+        "opciones": {
+            "a": "Con anterioridad al vuelo.",
+            "b": "Después de las 5 primeras horas de vuelo.",
+            "c": "Después del primer vuelo comercial."
+        },
+        "respuesta": "a"
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Cómo se determina el paso de un tornillo?",
+        "opciones": {
+            "a": "En rosca no métrica, se cuenta el número de hilos en una pulgada.",
+            "b": "En rosca no métrica, se cuenta el número de hilos en una pulgada y se divide por el diámetro.",
+            "c": "En rosca no métrica, se da en 1/16 de pulgada."
+        },
+        "respuesta": "a"
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Cómo se detecta el proceso de envejecimiento en las mangueras y tuberías flexibles?",
+        "opciones": {
+            "a": "Por la disminución de la resistencia y flexibilidad.",
+            "b": "Por la pérdida de rigidez en la forma y por la decoloración.",
+            "c": "Por la dilatación de los extremos y la tensión interna del material elastómero."
+        },
+        "respuesta": "a"
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Qué se debe hacer cuando en un conjunto o elemento aparecen los primeros indicios o focos de corrosión?",
+        "opciones": {
+            "a": "Anotarlo en el libro de la aeronave para tomar las medidas oportunas en el próximo overhaul.",
+            "b": "Darle una capa de cromato y después una capa de pintura.",
+            "c": "Eliminarlos lo antes posible."
+        },
+        "respuesta": "c"
+    },
+    {
+        "id": 14,
+        "pregunta": "Como medidas de prevención generales respecto a las herramientas:",
+        "opciones": {
+            "a": "Se debe disponer de un stock suficiente de herramientas para estas eventualidades.",
+            "b": "Debe existir un programa de inspección y mantenimiento continuo y periódico.",
+            "c": "Se acumulan ordenadamente en el puesto de trabajo y cuando la jornada finalice, se devolverán todas juntas para ahorrar tiempo."
+        },
+        "respuesta": "b"
+    },
+    {
+        "id": 15,
+        "pregunta": "¿En cuál de los siguientes tipos de soldadura se utiliza un electrodo no consumible?",
+        "opciones": {
+            "a": "T.I.G.",
+            "b": "M.M.A.",
+            "c": "M.I.G."
+        },
+        "respuesta": "a"
+    },
+    {
+        "id": 16,
+        "pregunta": "La posición de los taladros siempre se acotará con respecto a su:",
+        "opciones": {
+            "a": "Centro.",
+            "b": "Separación del contorno del eje de simetría.",
+            "c": "Contorno aparente."
+        },
+        "respuesta": "a"
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Cuál es el objeto del código de identificación que se estampa en los cables conductores?",
+        "opciones": {
+            "a": "Conocer los materiales que lo componen y su vida útil.",
+            "b": "Poder localizar a qué circuito pertenece cada cable.",
+            "c": "Es la referencia del fabricante para su identificación y pedido."
+        },
+        "respuesta": "b"
+    },
+    {
+        "id": 18,
+        "pregunta": "Una de las tareas más comunes del técnico de mantenimiento de aeronaves es la comprobación de las caídas de tensión, resistencias o intensidades de corriente dentro de un circuito. El instrumento de medida más común es el polímetro. La forma adecuada de usarlo es:",
+        "opciones": {
+            "a": "Como amperímetro se conecta en serie con el circuito. Tiene polaridad y el circuito no lo tendremos alimentado para realizar la medición.",
+            "b": "Como óhmetro se conecta en paralelo con el circuito. No tiene polaridad y el circuito no lo tendremos alimentado para realizar la medición. Puede ser necesario desconectar el elemento a medir.",
+            "c": "Como óhmetro se conecta en serie con el circuito. No tiene polaridad y el circuito lo tendremos alimentado para realizar la medición."
+        },
+        "respuesta": "b"
+    },
+    {
+        "id": 19,
+        "pregunta": "La soldadura blanda se distingue de la soldadura fuerte por:",
+        "opciones": {
+            "a": "La temperatura de fusión del material de aporte. La soldadura blanda utiliza aportaciones con punto de fusión por debajo de los 450°C y la soldadura fuerte por encima de los 450°C.",
+            "b": "La temperatura de fusión del material de aporte. La soldadura blanda utiliza aportaciones con punto de fusión por debajo de los 45°C y la soldadura fuerte por encima de los 45°C.",
+            "c": "La temperatura de fusión del material de aporte. La soldadura blanda utiliza aportaciones con punto de fusión por encima de los 450°C y la soldadura fuerte por debajo de los 450°C."
+        },
+        "respuesta": "a"
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Cuáles son los tres términos que se utilizan para definir los estados de las armas?",
+        "opciones": {
+            "a": "Paralelo, frío, asegurada, disponible. En disponible: municionada y montada.",
+            "b": "Frío, en caliente y asegurada. En caliente: arma municionada y montada.",
+            "c": "En caliente, asegurada, montada y fuera de servicio."
+        },
+        "respuesta": "b"
+    },
+    {
+    "id": 21,
+    "pregunta": "(Masas y Centrados) Si el CG no permanece dentro de los límites establecidos por el fabricante, ¿Qué ocurre en la aeronave?",
+    "opciones": {
+      "a": "Se puede realizar el vuelo sin riesgo.",
+      "b": "La estabilidad se ve afectada negativamente.",
+      "c": "Obligará al piloto a corregirlo en vuelo con el mando adecuado, sin otras consecuencias."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 22,
+    "pregunta": "¿A qué esfuerzos están sometidos los cojinetes de rodillos, y de qué forma se engrasan?",
+    "opciones": {
+      "a": "Están sometidos a esfuerzos axiales y se engrasan tanto a mano como con bomba de engrase.",
+      "b": "Están sometidos a esfuerzos radiales y se engrasan tanto a mano como con bomba de engrase.",
+      "c": "Están sometidos a esfuerzos axiales y solamente se pueden engrasar a mano."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 23,
+    "pregunta": "En el sistema ISO de ajustes y tolerancias:",
+    "opciones": {
+      "a": "IT5 es una tolerancia más pequeña que IT16.",
+      "b": "IT5 es una tolerancia más amplia que IT16.",
+      "c": "IT5 es la posición de la tolerancia."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 24,
+    "pregunta": "Un micrómetro es un instrumento para medir:",
+    "opciones": {
+      "a": "Longitudes.",
+      "b": "Densidades.",
+      "c": "Temperaturas."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 25,
+    "pregunta": "Se entienden por medidas de seguridad, no integradas en las máquinas:",
+    "opciones": {
+      "a": "La instrucción técnica, las marcas y las señales.",
+      "b": "Las defensas, resguardos dispositivos.",
+      "c": "Protección personal, formación y métodos de trabajo."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 26,
+    "pregunta": "Durante la realización de una inspección por toma brusca, ¿cuáles son los procedimientos generales que se deben de realizar?",
+    "opciones": {
+      "a": "Inspeccionar las partes dañadas y según criterio del TMA proceder a su sustitución, siguiendo las indicaciones del Manual de Mantenimiento MM.",
+      "b": "Anotar el hecho en el libro diario para su inspección en la próxima revisión general de mantenimiento de la aeronave.",
+      "c": "Evaluar los daños de acuerdo al Manual de Mantenimiento MM y proceder a su reparación o sustitución si es posible."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 27,
+    "pregunta": "Antes de cualquier movimiento de una aeronave por la pista o vías de carreteo hay que avisar:",
+    "opciones": {
+      "a": "Al servicio de extinción de incendios.",
+      "b": "A la torre de control del aeropuerto.",
+      "c": "Al jefe de mantenimiento."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 28,
+    "pregunta": "(Protección de la cabeza) Cuando existe el riesgo de proyección de partículas corrosivas o incandescentes usaremos:",
+    "opciones": {
+      "a": "Redes.",
+      "b": "Cubrecabezas.",
+      "c": "Gorras."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 29,
+    "pregunta": "El error de paralaje, cuando realizamos una medición, lo podemos minimizar:",
+    "opciones": {
+      "a": "Procurando evitar cualquier vibración en el momento de efectuar la lectura.",
+      "b": "Procurando realizar la lectura con la mejor luz posible, mejor solar.",
+      "c": "Procurando efectuar la lectura lo más perpendicular en la visualización a la escala."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Cómo es posible detectar en los rodamientos, la presencia de defectos cuando se encuentran en etapa incipiente?",
+    "opciones": {
+      "a": "Haciendo uso del análisis de vibraciones y de las técnicas de demodulación y/o “peaxuve”.",
+      "b": "Haciendo uso de la inspección diaria y programada y evitando que trabajen a los esfuerzos de tracción y empuje simultáneamente.",
+      "c": "Limpieza adecuada en los rodamientos y manteniéndolos limpios de toda suciedad y perfectamente engrasados."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 31,
+    "pregunta": "Las líneas que nos representan las aristas ocultas de las piezas son:",
+    "opciones": {
+      "a": "Finas, discontinuas.",
+      "b": "Gruesas, continuas.",
+      "c": "Finas, continuas."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Cómo se caracteriza un filete de rosca en el Sistema Internacional (S.I.)?",
+    "opciones": {
+      "a": "Se caracteriza por un filete triangular equilátero (60º), que el lado del triángulo es igual al paso de rosca, los diámetros están estandarizados y se dan en pulgadas.",
+      "b": "Se caracteriza por un filete triangular isósceles (55º), que el lado del triángulo es igual al paso de rosca, los diámetros están estandarizados y se dan en milímetros.",
+      "c": "Se caracteriza por un filete triangular equilátero (60º), que el lado del triángulo es igual al paso de rosca, los diámetros están estandarizados y se dan en milímetros."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 33,
+    "pregunta": "Las dos primeras acciones o etapas a realizar en todo proceso de control de corrosión son:",
+    "opciones": {
+      "a": "Limpieza e inspección.",
+      "b": "Inspección y control.",
+      "c": "Control y comprobación."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 34,
+    "pregunta": "En lo referente a las canalizaciones hidráulicas instaladas en el avión, pueden ser de dos tipos: tuberías rígidas (metálicas); tuberías flexibles (de materiales tipo elastómero o caucho sintético), como normas generales podemos afirmar:",
+    "opciones": {
+      "a": "Las tuberías rígidas de acero y titanio, suelen emplearse para presiones bajas o medias.",
+      "b": "Las tuberías rígidas de aluminio suelen emplearse para presiones de hasta 3000 psi.",
+      "c": "Las tuberías flexibles se emplean en todas aquellas zonas en las que existe movimiento relativo entre los elementos del circuito."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Cuál de las siguientes no es una ventaja proporcionada por la potencia del haz láser del designador?",
+    "opciones": {
+      "a": "Apuntar a objetivos a grandes distancias aumenta la posibilidad de realización de misiones de combate nocturno.",
+      "b": "Donde está la verdadera ventaja del designador láser es en el combate con luz diurna, único en el cual se muestra eficaz.",
+      "c": "Aumenta la iluminación de la zona de objetivos de hasta un 30%, aumentando de esta forma las capacidades de los equipos de visión nocturna."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Cuál de los siguientes procedimientos es más adecuado para la inutilización de los componentes aeronáuticos?",
+    "opciones": {
+      "a": "Troceado total.",
+      "b": "Identificación con tarjetas de “inútil”.",
+      "c": "Rociarlos con pintura."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 37,
+    "pregunta": "Un LMA, entre las inspecciones habituales que realiza, está la inspección visual, que consiste en:",
+    "opciones": {
+      "a": "Una inspección visual del elemento o conjunto, realizada inmediatamente después de la limpieza inicial.",
+      "b": "Una inspección que debe realizarse previa a la limpieza inicial, inmediatamente después de esta y posteriormente al montaje.",
+      "c": "Una inspección visual del elemento o conjunto, realizada cuando este se encuentre instalado y en disposición de funcionar."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 38,
+    "pregunta": "Para la implantación de una protección individual se deben seguir las siguientes etapas:",
+    "opciones": {
+      "a": "Necesidad y control de su cumplimiento.",
+      "b": "Necesidad, selección, convencimiento y control.",
+      "c": "Necesidad de disminuir las consecuencias de un riesgo."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 39,
+    "pregunta": "Como ventajas del método radiográfico, ¿A qué tipos de materiales puede emplearse?",
+    "opciones": {
+      "a": "Puede ser aplicado a los no férricos.",
+      "b": "Puede ser aplicado a los férricos.",
+      "c": "Puede ser aplicado a casi todos tipos de materiales."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 40,
+    "pregunta": "Durante un determinado proceso de trabajo, el Manual de Mantenimiento especifica que hay que dar un torque a una tuerca de 180 a 240 lb. Inch. y posteriormente frenar con un pasador. ¿Cuál es la secuencia correcta para realizar dicha tarea?",
+    "opciones": {
+      "a": "Ponemos 240 lb. Inch. en el torquímetro y apretamos hasta que coincida el agujero del tornillo pero sin que el torquímetro nos indique que hemos pasado de 240 lb. Inch.",
+      "b": "Si poniendo el torque mínimo (180 lb. Inch.) no podemos poner el pasador y hasta llegar al torque máximo tampoco se puede poner, tenemos la posibilidad de aflojar la tuerca una cara más para así poder poner el pasador.",
+      "c": "Ponemos 180 lb. Inch. en el torquímetro y no superamos el torque. Si no podemos poner el pasador, ponemos 240 lb. Inch. En el torquímetro y apretamos hasta que coincida el agujero del tornillo con la tuerca, pero asegurándonos de que no hemos sobrepasado el torque máximo."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Dónde se indica el acabado superficial de las piezas en los planos?",
+    "opciones": {
+      "a": "Se indican los acabados en el plano y las superficies con mejor acabado entre paréntesis y sobre el dibujo.",
+      "b": "No se suele indicar el acabado superficial debido al dibujo de los acabados de todas las superficies.",
+      "c": "No se indica en los planos, se referencia en la lista de piezas."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Qué tipo de línea utilizamos en los croquis para representar aristas o contornos VISIBLES?",
+    "opciones": {
+      "a": "Líneas de trazo y punto",
+      "b": "Líneas a trazos",
+      "c": "Líneas continuas gruesas"
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 43,
+    "pregunta": "En la aeronave, ¿Qué precauciones debemos de tomar al dar tensión a un cable de mando después de ser inspeccionado?",
+    "opciones": {
+      "a": "Usar un tensiómetro adecuado y revisado, teniendo en cuenta la temperatura y el diámetro del cable.",
+      "b": "Es necesario que el cable esté engrasado y luego emplear el tensiómetro propio del modelo de cable a medir.",
+      "c": "Usar un tensiómetro cualquiera, que esté revisado, teniendo en cuenta la temperatura y el modelo de cable."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 44,
+    "pregunta": "Realizando las tareas de mantenimiento específicas de la aeronave el mecánico observa que la herramienta se ha deteriorado durante su uso y ya no es apta para su utilización. ¿Qué es lo que se debe hacer?",
+    "opciones": {
+      "a": "Debemos poner todos los medios a nuestro alcance para evitar que este deterioro se produzca.",
+      "b": "Elaborar un procedimiento escrito, firmado antes de su devolución a la persona responsable.",
+      "c": "Comunicar al responsable para su reparación, sustitución y posibles conclusiones de dicho deterioro o rotura."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Cuál fue el primer helicóptero de producción con asiento eyectable?",
+    "opciones": {
+      "a": "El helicóptero de combate “Kamov”.",
+      "b": "El helicóptero de ataque “Tigre”.",
+      "c": "El helicóptero de ataque “Apache”."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Qué tres principios básicos se deben contemplar a la hora de afrontar una reparación estructural?",
+    "opciones": {
+      "a": "Mayor resistencia aerodinámica, minimizar tiempo.",
+      "b": "Contorno original, minimizar el peso, resistencia original.",
+      "c": "Tamaño original, minimizar tiempo, resistencia original."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 47,
+    "pregunta": "En las reparaciones estructurales con chapas metálicas, ¿Por qué hay que redondear las esquinas de los parches y dar radio a los saneados?",
+    "opciones": {
+      "a": "Para que no se produzcan grietas.",
+      "b": "Depende del espesor de la chapa.",
+      "c": "Por estética."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 48,
+    "pregunta": "Cuando un remache falla o se afloja, no es capaz de absorber y distribuir las cargas de la unión, teniendo que ser soportadas por los remaches adyacentes, los cuales fallaran en un menor número de ciclos que el primer remache. ¿Qué ocurrirá con el resto de los remaches adyacentes?",
+    "opciones": {
+      "a": "Soportarán los esfuerzos y aguantarán las cargas del remache que falla sin que se produzca ningún fallo.",
+      "b": "Coportaran los esfuerzos y distribución de las cargas que estos no soportan, por lo que el fallo de la unión irá aumentando de manera exponencial.",
+      "c": "Soportaran los esfuerzos y distribución de las cargas que estos soportan, por lo que el fallo de la unión será inmediato."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 49,
+    "pregunta": "Las roscas normalizadas deben cumplir especificaciones tales como:",
+    "opciones": {
+      "a": "Resistir los esfuerzos en su lugar de montaje específico.",
+      "b": "Formas y proporciones del filete.",
+      "c": "Los tornillos solo se normalizan en cuanto a diámetro y longitud."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 50,
+    "pregunta": "Como norma general, cuando se instalan tornillos sobre partes dinámicas:",
+    "opciones": {
+      "a": "Frenaremos los tornillos con alambre y pasador de aleta para mayor seguridad.",
+      "b": "Colocaremos las cabezas de los tornillos en el mismo sentido de la rotación, para mayor seguridad.",
+      "c": "Es indiferente la posición de las cabezas de los tornillos respecto al sentido de la rotación."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 51,
+    "pregunta": "Descompón la fracción 9/1.128, para que sea posible introducir la correspondiente medida, en un pie de rey, cuya apreciación es de “1/128”:",
+    "opciones": {
+      "a": "11/16” + 5/128”",
+      "b": "11/16” + 1/8”",
+      "c": "11/16” + 3/128”"
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 52,
+    "pregunta": "El proceso de trabajo para la extracción de los remaches tiene una gran importancia en cualquier reparación de estructura metálica, por ser fundamental evitar que el orificio del remache se ovalice y aumente de tamaño, provocando que el remache que se vuelva a instalar en su lugar, tenga que ser de un diámetro superior. En este proceso de des-remachado se realizan dos pasos fundamentales. ¿Cuáles son?",
+    "opciones": {
+      "a": "El primero es el limado de la cabeza del remache y el segundo es la extracción de la cabeza del remache.",
+      "b": "El primero es el taladrado de la cabeza del remache y el segundo es el avellanado del taladro del remache.",
+      "c": "El primero es el taladrado de la cabeza del remache y el segundo es la extracción del cuerpo del remache."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 53,
+    "pregunta": "¿Qué técnica de ensayo no destructivo se emplea para detectar la presencia de agua en las celdas de “Honeycomb”?",
+    "opciones": {
+      "a": "Tap Test.",
+      "b": "Los ultrasonidos.",
+      "c": "La termografía. / La radiografía"
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 54,
+    "pregunta": "¿A qué temperatura exterior es más frecuente observar alcances por rayos en una aeronave?",
+    "opciones": {
+      "a": "-30º C",
+      "b": "10º C",
+      "c": "0º C"
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 55,
+    "pregunta": "La longitud del tornillo que no está roscada se conoce con el nombre de:",
+    "opciones": {
+      "a": "Bulón.",
+      "b": "Espárrago.",
+      "c": "Grip."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 56,
+    "pregunta": "En el sistema ISO de ajustes y tolerancia, la expresión 50 +0,05 -0,06 significa:",
+    "opciones": {
+      "a": "Que +0,05 es la distancia inferior (Di) y -0,06 la distancia superior (Ds).",
+      "b": "Que +0,05 es la distancia superior (Ds) y -0,06 la distancia inferior (Di).",
+      "c": "Es la expresión simbólica del ajuste."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 57,
+    "pregunta": "¿Cuál es la contramedida más famosa para evitar los efectos de un rayo en las aeronaves?",
+    "opciones": {
+      "a": "El conocido como efecto de la jaula de Faraday.",
+      "b": "No existe ninguna contramedida para evitar estos efectos.",
+      "c": "Aplicación de pinturas especiales sobre la aeronave."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 58,
+    "pregunta": "Si sabemos que no existe resultado de medida cierto, debido a la imposibilidad de evitar algunos errores. Cuando un determinado error se comete invariablemente en todas las mediciones, decimos que es:",
+    "opciones": {
+      "a": "Un error sistemático.",
+      "b": "Un error de precisión.",
+      "c": "Un error accidental."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Cuándo se deben de utilizar los manguitos para el marcado de los conductores?",
+    "opciones": {
+      "a": "Cuando no se pueda grabar directamente sobre el conductor.",
+      "b": "Cuando no es aconsejable utilizar los manguitos, es mejor marcar directamente sobre los conductores.",
+      "c": "Siempre que se pueda es mucho más práctico y económico."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 60,
+    "pregunta": "El fuego es la oxidación rápida con producción de luz y calor que precisa de tres factores:",
+    "opciones": {
+      "a": "Comburente, combustible y nitrógeno.",
+      "b": "Oxígeno, nitrógeno y calor.",
+      "c": "Combustible, calor y oxígeno."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 61,
+    "pregunta": "Durante el procedimiento general de inspección visual de los engranajes estos deben de ser inspeccionados en cuanto a evidencia de:",
+    "opciones": {
+      "a": "Rayados, erosiones y huellas por desgaste.",
+      "b": "Fuertes ralladuras, falta de tratamiento superficial, golpes y grietas.",
+      "c": "Rotura, micropicaduras, sobrecalentamiento y excesivos desgastes por huella."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 62,
+    "pregunta": "La mejor prevención, en máquinas para la eliminación o reducción de riesgos es:",
+    "opciones": {
+      "a": "La intrínseca, incorporada o de diseño.",
+      "b": "La colectiva.",
+      "c": "Una combinación de colectiva (defensas, resguardos y dispositivos de seguridad) e individual (mascaras, gafas, guantes, mandiles, botas, etc.)."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 63,
+    "pregunta": "El termino F.O.D., es bastante común en el argot aeronáutico, consiste en:",
+    "opciones": {
+      "a": "La contaminación de los equipos de radio por ondas de alta frecuencia.",
+      "b": "Cualquier elemento extraño que pueda provocar daños al personal, equipos o sistemas de las aeronaves.",
+      "c": "La entrada de elementos extraños en los sistemas de lubricación de motores o transmisiones."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 64,
+    "pregunta": "En la reparación de un elemento de material compuesto o compuesto, monolítico, ¿Cuántas capas de fibra se deben colocar?",
+    "opciones": {
+      "a": "En función de la extensión del daño, de 1 a 2 más del número total que tenga el elemento.",
+      "b": "Una capa más del número de las que se ha eliminado durante el saneado.",
+      "c": "El mismo número total de capas que tenga el elemento a reparar."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 65,
+    "pregunta": "¿Qué lugar es el más apropiado para izar una aeronave en gatos?",
+    "opciones": {
+      "a": "En la pista de vuelo.",
+      "b": "En la línea de vuelo.",
+      "c": "En el interior del Hangar."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 66,
+    "pregunta": "En el sistema diédrico europeo o del primer diedro, la vista que se obtiene mirando la pieza desde abajo, se denomina… y se sitúa…:",
+    "opciones": {
+      "a": "Vista inferior, encima del alzado.",
+      "b": "Vista posterior, a la derecha del alzado.",
+      "c": "Vista superior o planta, debajo del alzado."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 67,
+    "pregunta": "Antes de comenzar el pesaje de la aeronave, debemos asegurarnos de tomar las medidas de seguridad recomendadas por el Manual Técnico en la zona de pesada, que son:",
+    "opciones": {
+      "a": "Cerrar puertas y ventanas del Hangar.",
+      "b": "Establecer una adecuada iluminación.",
+      "c": "Asegurar que la temperatura del Hangar es la adecuada."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 69,
+    "pregunta": "El técnico de mantenimiento se dispone a montar un cojinete, mediante una prensa, sobre un eje. Para no dañar al cojinete, la forma correcta de proceder es la siguiente:",
+    "opciones": {
+      "a": "Con el eje apoyado en una base firme, ejerceremos presión sobre la pista interior del cojinete.",
+      "b": "Colocamos el cojinete apoyado sobre su pista exterior y ejerceremos presión en el eje, así evitamos que se puedan separar la pista interior y la exterior.",
+      "c": "Con el eje apoyado en una base firme, ejerceremos presión indistintamente sobre la pista interior o exterior."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 70,
+    "pregunta": "Durante una inspección de una transmisión de engranajes, nos encontramos los dientes de la misma con síntomas de estar quemados o por sobrecalentamiento. Independientemente de tener que comprobar el Manual de Mantenimiento o el Manual de Inspección para determinar cuál ha sido la causa; en una primera aproximación podemos determinar que esto se ha producido como consecuencia de:",
+    "opciones": {
+      "a": "Exceso de holgura.",
+      "b": "Exceso de carga y poca velocidad de giro.",
+      "c": "Muy poca holgura entre dientes."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 71,
+    "pregunta": "En el sistema ISO de ajustes y tolerancias:",
+    "opciones": {
+      "a": "IT8 es una tolerancia mayor que IT5.",
+      "b": "IT5 es una tolerancia mayor que IT8.",
+      "c": "IT8 es la posición de la tolerancia."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 72,
+    "pregunta": "Fallos o inspección en embragues y frenos. Estas revisiones, deberán efectuarse periódicamente de acuerdo con el manual del fabricante, o tomando como referencia:",
+    "opciones": {
+      "a": "El medio ambiente en el que está instalado el equipo y su ciclo de lubricación.",
+      "b": "La carga de trabajo y los esfuerzos a que va a ser sometido el material.",
+      "c": "El número de horas de vuelo, la carga de trabajo y el medio ambiente en el que está instalado el equipo."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 73,
+    "pregunta": "Para realizar un trabajo con las suficientes garantías, ¿Cuál es una medida de prevención general, respecto a las herramientas, en cuanto a su utilización y su disponibilidad?",
+    "opciones": {
+      "a": "Se debe contar con las herramientas adecuadas para cada trabajo, y se deben de utilizar únicamente las herramientas para la función que han sido diseñadas.",
+      "b": "Se acumularán, ordenadamente, en el puesto de trabajo y cuando la jornada finalice, se devolverán todas juntas para ahorrar tiempo.",
+      "c": "Cualquier sistema de reparación o conservación nos garantiza un trabajo de calidad."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 74,
+    "pregunta": "El corte total se identifica con letras mayúsculas:",
+    "opciones": {
+      "a": "En el caso de presentarse varios cortes y disponerse en sitio diferente al indicado.",
+      "b": "Siempre, tal como se indica en un dibujo técnico técnico.",
+      "c": "En el caso de disponerse en el sitio correcto, señalado en el conjunto del dibujo."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 75,
+    "pregunta": "¿Cuáles son las precauciones fundamentales que todo mecánico debe de tener en cuenta a la hora de sustituir retenes o juntas?",
+    "opciones": {
+      "a": "Se deben de engrasar siempre con aceite mineral muy fluido, para que no se formen depósitos grasos, sea cual sea el fluido con el que trabajen.",
+      "b": "Se limpian perfectamente los posibles restos de grasas o aceites antes de montarlos, dejándolos completamente limpios de grasa.",
+      "c": "Se engrasan ligeramente con el mismo fluido que trabajan en los casos de que sea graso, sino lo es se utilizará vaselina neutra."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 76,
+    "pregunta": "Durante el proceso de comprobación de la tensión de un cable del sistema de controles de vuelo, ¿Cuándo tendrá mayor tensión un cable en invierno o en verano, y por qué?",
+    "opciones": {
+      "a": "En invierno porque se contrae más el cable que la estructura.",
+      "b": "En invierno porque se dilata más el cable que la estructura.",
+      "c": "En verano porque se dilata más la estructura que el cable."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 77,
+    "pregunta": "En la actualidad, ¿Cuáles son los terminales más empleados en los conductores eléctricos que se emplean en aviación?",
+    "opciones": {
+      "a": "Los terminales soldados con estaño en frío y caliente indistintamente, y los terminales soldados con estaño.",
+      "b": "Los terminales engarzados en frío.",
+      "c": "Los terminales soldados con estaño en caliente."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 78,
+    "pregunta": "En cuanto a la instalación de tuberías rígidas o flexibles, tendremos en cuenta:",
+    "opciones": {
+      "a": "Los manguitos que estén bloqueados en las tuberías flexibles o rígidas representan una causa de sustitución.",
+      "b": "Colocar en su sitio la tuerca de unión y apretar a mano hasta que el ensanchamiento de la tubería esté correctamente en contacto con el cono de la unión.",
+      "c": "Cuando se da el par de apriete en una tubería no es necesario sujetar la unión."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 79,
+    "pregunta": "Si nos encontramos ante la posibilidad de poder usar, indistintamente, un pie de rey o un Palmer de cualidades semejantes, ¿Cuál usarías para cometer el error más pequeño posible?",
+    "opciones": {
+      "a": "El pie de rey, por su sencillez de lectura y no curva.",
+      "b": "El pie de rey de no reúna las mejores cualidades.",
+      "c": "El Palmer, utilizando la carraca para mejor sensibilidad."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 80,
+    "pregunta": "¿Qué cable hay que desconectar primero de la batería y por qué?",
+    "opciones": {
+      "a": "El cable positivo, porque en caso de que toquemos con la llave entre el borne positivo y masa, la corriente de esta se deriva directamente a masa y la batería no se dañará.",
+      "b": "El negativo, porque en caso de tocar con la llave entre el borne negativo de la batería y masa, no cortocircuita esta.",
+      "c": "Es indiferente el orden, no afecta al sistema."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 81,
+    "pregunta": "En la anomalía de un ruido excesivo en una transmisión por cadena, una de las causas posibles puede ser:",
+    "opciones": {
+      "a": "Cadena o ruedas gastadas",
+      "b": "Exceso de lubricación",
+      "c": "Lubricante denso"
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 82,
+    "pregunta": "Con una situación de 15.000 pies y 200 nudos. Con la caja de comprobación de estática dinámica. En medición de pérdidas, si tenemos pérdidas de estática:",
+    "opciones": {
+      "a": "La indicación de altitud bajará y la de pitot bajará.",
+      "b": "La indicación de altitud bajará y la de pitot subirá.",
+      "c": "La indicación de altitud subirá y la de pitot bajará."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 83,
+    "pregunta": "Durante su trabajo, los resortes:",
+    "opciones": {
+      "a": "Acumulan energía potencial elástica en su deformación y la devuelven al recuperar su dimensión original.",
+      "b": "Acumulan fuerza elástica en su deformación, sin devolverla al recuperar su dimensión original.",
+      "c": "Acumulan energía dinámica en su deformación y no devuelven toda ella al recuperar su posición original."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 84,
+    "pregunta": "¿Por qué las tuberías metálicas rígidas de conducción de fluidos en aeronaves, deben tener al menos un codo?",
+    "opciones": {
+      "a": "Para permitir las deformaciones por contracciones y dilataciones.",
+      "b": "Para disminuir la tolerancia al aumento de presión.",
+      "c": "Para generar un flujo de paso de presión."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 85,
+    "pregunta": "Las grandes aeronaves modernas llevan sistema de repostaje a presión. Una de las ventajas de este sistema es:",
+    "opciones": {
+      "a": "Permitir el repostaje automático, sin necesidad de personal.",
+      "b": "Reducir el tiempo de repostaje.",
+      "c": "Aumentar la capacidad de combustible en los depósitos."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 86,
+    "pregunta": "Cuando se emplea la soldadura oxiacetilénica, para realizar pequeñas reparaciones. ¿Cuáles son los principales elementos encargados de controlar el flujo de gas?",
+    "opciones": {
+      "a": "Las boquillas.",
+      "b": "Los sopletes.",
+      "c": "Las válvulas."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 87,
+    "pregunta": "¿Cuál debe de ser aproximadamente la separación del electrodo con respecto a la pieza (longitud del arco) en la soldadura eléctrica, por arco con electrodo revestido?",
+    "opciones": {
+      "a": "La MITAD del diámetro del electrodo.",
+      "b": "IGUAL al diámetro del electrodo.",
+      "c": "El DOBLE del diámetro del electrodo."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 88,
+    "pregunta": "En el montaje de un rodamiento mediante temperatura, tendremos en cuenta que:",
+    "opciones": {
+      "a": "Si lo instalamos en el alojamiento de una carcasa, la presión se realizara en su pista interior.",
+      "b": "La temperatura no sobrepasara en ningún caso los 110º C.",
+      "c": "Si lo instalamos sobre un eje la presión se realizará en la pista exterior del rodamiento."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 89,
+    "pregunta": "Cuando vemos en un plano los números y símbolos de la figura, nos indica:",
+    "opciones": {
+      "a": "Una tolerancia de forma y su tolerancia correspondiente.",
+      "b": "Una tolerancia de calidad superficial y su tolerancia correspondiente.",
+      "c": "Una tolerancia dimensional y su tolerancia correspondiente."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 90,
+    "pregunta": "Un remache sólido con P/N MS20470 AD-6-8 ¿Qué identifican los dígitos 20470?",
+    "opciones": {
+      "a": "El diámetro y la aleación del remache.",
+      "b": "La forma de la cabeza del remache, universal.",
+      "c": "El tipo de remache, 2117."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 91,
+    "pregunta": "Antes de comenzar el elevado en gatos de la aeronave, ¿Qué precaución debemos tomar?",
+    "opciones": {
+      "a": "Verificar que los depósitos estén llenos de combustible.",
+      "b": "Determinar si la configuración del avión permitirá el izado.",
+      "c": "Comprobar el peso total máximo permitido por los puntos de izado."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 92,
+    "pregunta": "El símbolo de la figura nos indica:",
+    "opciones": {
+      "a": "Que la pieza se ha conformado con arranque de viruta.",
+      "b": "Que la pieza se ha conformado sin arranque de viruta.",
+      "c": "Se trata del símbolo básico de acabado superficial."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 93,
+    "pregunta": "¿Dónde es más frecuente encontrar alambres o hilos rotos en un cable de control?",
+    "opciones": {
+      "a": "En las zonas de anclaje a las superficies de control.",
+      "b": "En las zonas donde el cable pasa por poleas o pasamuros.",
+      "c": "En las zonas donde se encuentran mecanismos de regulación de tensión del cable."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 94,
+    "pregunta": "Las tuberías rígidas para la conducción de fluidos aeronáuticos deben de cumplir una serie de requisitos de tipo geométrico que aseguran una perfecta fabricación. ¿Cuáles son estos requisitos geométricos?",
+    "opciones": {
+      "a": "Radios mínimos de doblado. Pliegues de doblado. Ovalización de los tubos. Abolladura del tubo.",
+      "b": "Radios máximos de doblado. Pliegues de doblado. Ovalización de los tubos. Abolladura del tubo.",
+      "c": "Radios máximos de doblado. Pliegues de doblado. Ovalización de los tubos. Espesor de la pared."
+    },
+    "respuesta": "a"
+  },
+  {
+    "id": 95,
+    "pregunta": "Una vez hecho y taladrado el refuerzo de aleación de aluminio, en una reparación estructural, ¿Qué pasos seguirán?",
+    "opciones": {
+      "a": "Directamente lo trataremos con alodine 1200, y ya está listo para instalar.",
+      "b": "Eliminaremos las rebabas, y prepararemos la pieza para tratarla con alodine 1200.",
+      "c": "Quitaremos las rebabas y pintaremos."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 96,
+    "pregunta": "Durante una inspección posterior a un vuelo en atmósfera turbulenta. ¿Cuál de los siguientes procedimientos es el adecuado en su primera etapa de inspección?",
+    "opciones": {
+      "a": "Inspeccionar los largueros y las cuadernas en el fuselaje, a través de los paneles de acceso disponibles.",
+      "b": "Elevar el avión sobre gatos y comprobar la alineación geométrica del avión.",
+      "c": "Inspeccionar completa y detenidamente los sistemas de mandos de vuelo, comprobando las tensiones de los cables de mando, sus puntos de roce, etc."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 97,
+    "pregunta": "El sistema de eje único o eje base toma como referencia la:",
+    "opciones": {
+      "a": "Letra “H”, donde su valor máximo coincide con la cota nominal.",
+      "b": "Letra “h”, donde su valor mínimo coincide con la cota nominal.",
+      "c": "Letra “h”, donde su valor máximo coincide con la cota nominal."
+    },
+    "respuesta": "c"
+  },
+  {
+    "id": 98,
+    "pregunta": "Una de las anomalías que se pueden encontrar en una transmisión de engranajes es la de dientes quemados por sobrecalentamiento y una de las posibles causas puede ser:",
+    "opciones": {
+      "a": "Exceso de holgura entre dientes.",
+      "b": "Falta de lubricación.",
+      "c": "Sobrecarga intermitente."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 99,
+    "pregunta": "El proceso de instalación o remachado de los remaches sólidos, tanto de cabeza plana como universal, no reviste grandes complicaciones, aunque sí cierta habilidad. Para la instalación de estos remaches, las herramientas imprescindibles que se requieren son:",
+    "opciones": {
+      "a": "Un martillo neumático y una sufridera.",
+      "b": "Un martillo neumático con la buterola.",
+      "c": "Una buterola y una sufridera."
+    },
+    "respuesta": "b"
+  },
+  {
+    "id": 100,
+    "pregunta": "Al inspeccionar un cable se observa gran cantidad de suciedad en el mismo. ¿Cómo se debe limpiar?",
+    "opciones": {
+      "a": "Con un trapo humedecido en aceite, siguiendo las instrucciones del manual de mantenimiento.",
+      "b": "Con un trapo limpio, que podrá ser humedecido ligeramente con disolvente de limpieza, siguiendo las instrucciones del manual de mantenimiento.",
+      "c": "Con un trapo bien empapado en disolvente a lo largo de todo el cable, siguiendo las instrucciones del manual de mantenimiento."
+    },
+    "respuesta": "b"
+  }
+]
